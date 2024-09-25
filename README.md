@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 3. Download news dataset.
 
-Download the WSJ dataset [here](nolink) and unzip it.
+Download the WSJ dataset and unzip it.
 
 
 
