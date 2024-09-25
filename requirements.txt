@@ -1,0 +1,8 @@
+openai
+pandas
+tqdm
+yaml
+FlagEmbedding
+chromadb
+torch
+wandb

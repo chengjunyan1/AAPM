@@ -1,0 +1,29 @@
+name: default
+
+dirs:
+  root: ./
+  data: ./Data
+  ckpt: ./Ckpt
+
+apikeys:
+  av: YOUR_KEY
+  openai: YOUR_KEY
+  cohere: YOUR_KEY
+  huggingface: YOUR_KEY
+  wandb: YOUR_KEY
+  fred: YOUR_KEY
+
+model:
+  news: gpt-3.5-turbo-1106
+  seed: 42
+  emb_type: bge # cohere, openai, bge
+  embed: BAAI/bge-large-en-v1.5
+  dsize: 12000
+  d_emb: 1024
+  d_model: 256
+  dropout: 0.1
+  lr: 0.0001
+  batchsize: 1024
+  epochs: 100
+  earlystop: 10
+
