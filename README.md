@@ -1,6 +1,6 @@
-# AAPM
+# Empirical Asset Pricing with Large Language Model Agents
 
-This is the official repository for AAPM.
+This is the official repository for Empirical Asset Pricing with Large Language Model Agents.
 
 
 
