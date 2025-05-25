@@ -1,6 +1,6 @@
 # Empirical Asset Pricing with Large Language Model Agents
 
-This is the official repository for Empirical Asset Pricing with Large Language Model Agents.
+This is the official repository for [Empirical Asset Pricing with Large Language Model Agents](https://arxiv.org/abs/2409.17266).
 
 
 
@@ -37,4 +37,19 @@ Download the WSJ dataset and unzip it.
 3. Use analysis.py to produce the analysis report features.
 
 4. Use model.py to train the hybrid asset pricing model.
+
+
+### Citation
+If you use this code in your research, please cite the following paper:
+
+
+``` bibtex
+@inproceedings{cheng2025empiricalassetpricinglarge,
+      title={Empirical Asset Pricing with Large Language Model Agents}, 
+      author={Junyan Cheng and Peter Chin},
+      year={2025},
+      maintitle={The Thirteenth International Conference on Learning Representations (ICLR)},
+      booktitle={Advances in Financial AI Workshop},
+}
+```
 
