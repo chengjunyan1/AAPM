@@ -48,8 +48,7 @@ If you use this code in your research, please cite the following paper:
       title={Empirical Asset Pricing with Large Language Model Agents}, 
       author={Junyan Cheng and Peter Chin},
       year={2025},
-      maintitle={The Thirteenth International Conference on Learning Representations (ICLR)},
-      booktitle={Advances in Financial AI Workshop},
+      maintitle={The Thirteenth International Conference on Learning Representations (ICLR) Advances in Financial AI Workshop},
 }
 ```
 
