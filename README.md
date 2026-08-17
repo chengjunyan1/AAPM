@@ -1,3 +1,5 @@
+
+
 # Empirical Asset Pricing with Large Language Model Agents
 
 This is the official repository for [Empirical Asset Pricing with Large Language Model Agents](https://arxiv.org/abs/2409.17266).
@@ -22,8 +24,7 @@ pip install -r requirements.txt
 
 3. Download news dataset.
 
-Download the WSJ dataset and unzip it.
-
+Download the WSJ dataset, unzip it, and place the unzipped contents under `Data/library`.
 
 
 
@@ -51,4 +52,3 @@ If you use this code in your research, please cite the following paper:
       booktitle={The Thirteenth International Conference on Learning Representations (ICLR) Advances in Financial AI Workshop},
 }
 ```
-
